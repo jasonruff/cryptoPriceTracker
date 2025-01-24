@@ -15,3 +15,9 @@ async function fetchBitcoinPrice() {
 
 // Call the function when page loads
 fetchBitcoinPrice();
+
+
+
+//Create --POST
+//Read --GET
+//Delete --DELETE
